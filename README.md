@@ -1,4 +1,4 @@
-# 2022 DS Prescreen on Java Programming
+# NCCU 2022 DS Prescreen on Java Programming
 
 ## Notice
 - The location is at MIS PC Classroom. (9:10-12:00am / 1:10-4:00pm)
